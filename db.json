@@ -1,0 +1,7 @@
+{
+  "devices": [
+    { "id": 1, "title": "Device 1" },
+    { "id": 2, "title": "Device 2" },
+    { "id": 3, "title": "Device 3" }
+  ]
+}
